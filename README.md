@@ -49,8 +49,8 @@ Follow these steps to set up the project locally on your machine.
 1. **Cloning the Repository**
 
 ```bash
-git clone [https://github.com/AmanSagar0607/iPhone-X.git]
-cd iphone-doc
+git clone https://github.com/AmanSagar0607/iPhone-X.git
+cd iPhone-X
 ```
 
 2. **Installation**
